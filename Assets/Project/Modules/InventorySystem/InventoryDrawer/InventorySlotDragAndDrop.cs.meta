@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 555e2e5afd3a7ee449f6f69af5d289d4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _playerData: {fileID: 11400000, guid: 35571496fc2371443a94dd69fb2946b2, type: 2}
+  - _inventoryData: {fileID: 11400000, guid: 66a04da9a99931c4b9d7c9106baf64c7, type: 2}
+  - inventoryDrawerPanel: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

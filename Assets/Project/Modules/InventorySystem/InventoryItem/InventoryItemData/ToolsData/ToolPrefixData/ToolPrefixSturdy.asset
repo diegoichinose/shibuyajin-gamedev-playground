@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3c7a728924dd2048addf64e7944d247, type: 3}
+  m_Name: ToolPrefixSturdy
+  m_EditorClassIdentifier: 
+  id:
+    serializedGuid: f990e3d2-8f48-486c-8027-ffd5acc92461
+  title: Sturdy
+  speed: 0
+  tickPower: 0
+  durability: 0.5
+  additionalHarvest: 0
+  priceModifier: 0.2

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 4dbcffa2912c39247ae8607edbc319ae
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _inventoryData: {fileID: 11400000, guid: 66a04da9a99931c4b9d7c9106baf64c7, type: 2}
+  - OnHarvested: {fileID: 11400000, guid: 8ff84788b493ed947b300ffa52a88d8b, type: 2}
+  - OnItemDropped: {fileID: 11400000, guid: 424231608b6a8404f8716dcf62ba9336, type: 2}
+  - OnInventorySlotSelected: {fileID: 11400000, guid: 45e36731f50d74f4aadd8b87f89de401, type: 2}
+  - OnHarvestableTriggerExit: {fileID: 11400000, guid: fe1c32a4abc26d84e8d966a7753a46a9, type: 2}
+  - OnHarvestTick: {fileID: 11400000, guid: f427966e6a104674d87880e349fd08fe, type: 2}
+  - harvestablePropSprite: {instanceID: 0}
+  - progressBarTooltip: {instanceID: 0}
+  - progressBarFill: {instanceID: 0}
+  - emptyCollectableItemPrefab: {fileID: 2689191635014549808, guid: 12db8a96aabce9145b758cb9265bdd4a, type: 3}
+  - harvestablePropData: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

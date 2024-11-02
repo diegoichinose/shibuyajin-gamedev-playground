@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3c7a728924dd2048addf64e7944d247, type: 3}
+  m_Name: ToolPrefixFast
+  m_EditorClassIdentifier: 
+  id:
+    serializedGuid: ae9d6e27-f736-471e-8dd5-399c337294ed
+  title: Fast
+  speed: 0.5
+  tickPower: 0
+  durability: 0
+  additionalHarvest: 0
+  priceModifier: 0.2

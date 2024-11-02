@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ebbe11ddd5add9a419b9e1e0f8d604ce
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - DropItemGameEvent: {fileID: 11400000, guid: d9be64d4f74e2b1488218c05fe10d118, type: 2}
+  - OnInventorySlotDeselected: {fileID: 11400000, guid: 52623c80a294bf7489d34215aefafb27, type: 2}
+  - OnInventoryItemRemoved: {fileID: 11400000, guid: e07ce6ac60d48f3449500b2c5c85c6b9, type: 2}
+  - OnWeaponTriggered: {fileID: 11400000, guid: 36ca23b7fb117e94bb2c672de0077f94, type: 2}
+  - OnHarvestTickWithTool: {fileID: 11400000, guid: f427966e6a104674d87880e349fd08fe, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

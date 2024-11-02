@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 43e5c59835dc44749b032b066638bb4e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _inventoryData: {fileID: 11400000, guid: 66a04da9a99931c4b9d7c9106baf64c7, type: 2}
+  - OnInventoryChange: {fileID: 11400000, guid: eddee84a50fdf1f449ce8ee3e8ef0a7c, type: 2}
+  - OnCraftingMenuOpen: {fileID: 11400000, guid: 66f673c9637c49e4e8478c05d2397581, type: 2}
+  - OnCraftingMenuClose: {fileID: 11400000, guid: 094db5204683b0b45a167833a1ace5ab, type: 2}
+  - slotPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eae9e86b58347f442a78630636789bc3, type: 3}
+  m_Name: HarvestablePropData_Boulder
+  m_EditorClassIdentifier: 
+  harvestTickSound: {fileID: 8300000, guid: 906fdde641b42a9449e2b676e015c7c7, type: 3}
+  harvestCompleteSound: {fileID: 8300000, guid: 623eb9c2917891246b2d877aecc6cb1a, type: 3}
+  requiredToolType: 2
+  durabilityTicks: 4
+  itemsToDrop:
+    list:
+    - inventoryItemData: {fileID: 11400000, guid: ecb71021f4e462e4b8d2c7ad2b997f28, type: 2}
+      weight: 50
+    minAmount: 2
+    additionalAmountToRandomize: 3
+  requiredTool:
+    inventoryItemData: {fileID: 0}
+    quantity: 0
+    currentDurability: 0
+    prefixDataId:
+      serializedGuid: 00000000-0000-0000-0000-000000000000
+    prefixData: {fileID: 0}

@@ -1,0 +1,1887 @@
+fileFormatVersion: 2
+guid: d34505f23423f2040a068936297f9446
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b9dd9fe83e32c4b92b39042442c575
+      internalID: -1305797122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e683916bd5eabaf419b101a60ad8a93c
+      internalID: -2026694810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2489f314849599e44b73edb3336f7612
+      internalID: 563865845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04d7258b43650a489942fd0d92879f3
+      internalID: -1693253279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f90d149d75b624f83c44f70185ed76
+      internalID: -224380252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48fbe75a5a13eb44be70cc7b0f9755f
+      internalID: -1488984470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775e2cbdcb0c9dd42a9a6dff0f726eba
+      internalID: -1681512539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656cc72d4ff89654cb6afc4322951fb1
+      internalID: -1334171996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac87ce53238bd74facfa21b815e175c
+      internalID: -610827673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62cd57499363a7e45875b33bffb16d02
+      internalID: 1816979689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a498c8a9393a14e927f5b96c1b5e56
+      internalID: -1271445574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7dccb31c2b691745ac04f9761cbb38f
+      internalID: 151824721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c286157fde1ac624680d25aecc37e8d9
+      internalID: 370203283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0265bcef29861474084785a7d4d3d1c2
+      internalID: 1844766415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8ed2e102308ff40a440b7d871c1f52
+      internalID: 1053612014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e832e1b952eb24643bd395bd0de5f8b6
+      internalID: -1993211868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024d45b295855db44b8461ea582b321e
+      internalID: -333204136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_17
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a0d9a8f6ff44040974da491dfe1ebc
+      internalID: -703047594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e60b4b4d6a83894da706d4a7ac2f81a
+      internalID: -2118432177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4c6cd184701d144a6c117a11d06400
+      internalID: -27767310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358d1b5fa8a4d2f468e1e03b717ca564
+      internalID: 595290372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eadb147418382744896d0d22aa181337
+      internalID: -1711427843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd5c1ce683a702478e01f556ab7bac8
+      internalID: 392647679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_23
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846b49a7268169041a008b2a140ea3cd
+      internalID: 149660230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e070bf1691825334e9dc983ff4b59dac
+      internalID: -1072525034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6914bc51461fa0c4999842d7e5a76279
+      internalID: 130142961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adcef0b533d4ded428085a8e77da0f1f
+      internalID: -1322906604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_27
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8b7162d07420e47a2ca0c9a2a7838c
+      internalID: 901811955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e3fa32c9714a646b1a2ad233a3c8e5
+      internalID: 979608714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_29
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa25e015854205b4ca402c002432b3b1
+      internalID: -1145446972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed910f5b4c5b4f348aaba24e6b3fc5a9
+      internalID: -1131983044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_31
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99ff30953bcbf04a8bde43feac91ab2
+      internalID: 322041958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4988d147180f5c4aa18fdca55348978
+      internalID: 1419999566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530def2d9e3f27c4dbf2d6698a69b10e
+      internalID: 2023131561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2a69b6501d2184e87ee68c146d7d34
+      internalID: -25935675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_35
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22723875544282f4ab3e0198df840b96
+      internalID: -1494543288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c9c48bf38d5984085cc36950220b8f
+      internalID: 1723626270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_37
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6efedc93554204a98858b509e34925
+      internalID: 310415716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_38
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d9790c044d5864b99ad18aa0758c4e
+      internalID: -193383002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_39
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72fde2ec2a965dc4694d9778a2247b2e
+      internalID: -606339747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234881c88a0560047a551012f9a528ca
+      internalID: -860898714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c6145f28c170042b1f7c3ee6e93ec0
+      internalID: 67287477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_42
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713556c4e7513d24c8e1b4b9ee82e3da
+      internalID: 472065367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_43
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9e4a2c28a0d8d40975995a8cefd251
+      internalID: 1124261155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab0e98be1f8c6342af4e7dec289ae20
+      internalID: 1729256058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_45
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d74ffb807e32d48adba6fc88c4c9b8
+      internalID: -1994342331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e744962de02c54b872d8f20df90903
+      internalID: -1490259198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_47
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a76335aa6f0204f8a09f9af60e1305
+      internalID: -717952973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8c37a00b8dbbc4ca72718005fe4661
+      internalID: 1555674897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_49
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c56cdb4b915fa245ab565bb6f7a147b
+      internalID: -2053441975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026adeabc5efdf44a85456e154483f21
+      internalID: -960090421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_51
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0963eabdc0a594a4a89ac4ae3ab13403
+      internalID: 397779277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_52
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea35c82f50d66f46af40a765a5ef580
+      internalID: 2101189989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_53
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba35eaec30494842b8d15ec4319869a
+      internalID: 1078457890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f3661934e3fed47a2de81cca709437
+      internalID: 236431379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_55
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938d351812bf7344b90ab7a8b7bffc48
+      internalID: -453070376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_56
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b1de1917d464a4b8814bb739993caa
+      internalID: -52916161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_57
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f31fb92e130f40499466c7af08a0d67
+      internalID: -214150486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_58
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1d55098ba5ee442a08ac9ed7d0bcd8
+      internalID: -898226443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_59
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32bf033daaedfb4c85e6fc901acea62
+      internalID: 525601278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104b17a6f18245741b4b2344bc32be60
+      internalID: 1213179220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8108aedcf24929409415650627a6d0d
+      internalID: -1681706005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f126fa211f07db4eb0e0bdd2bb94993
+      internalID: -1808265740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ab149eef6e1284fbae2ba102a20dbb
+      internalID: -123860618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d62b51951fd8346ab4a9891e16805c
+      internalID: 1553013975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44834ec70ae34864aa30a03c80b8ba37
+      internalID: 737479070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9727512081cfcc41af344f2a3fc38e4
+      internalID: -768271644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_67
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842a3cc2beb0708409f55cb35d073456
+      internalID: 1003286110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9bd10e84471c640bc54029407b42c8
+      internalID: 524417782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_69
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0c4f3265e570b4aba1dea7199ae1c0
+      internalID: -200357654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3030fc916b2e6ed4db6e10c2b597296c
+      internalID: -758642373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_71
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5bd71020075664a8452e53d863d8e8
+      internalID: -852497192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_72
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bacaa79908d3994586e0068ff729a48
+      internalID: -1051281704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_73
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4eeac0a5bde4444cb29161ee721b0a8
+      internalID: 885573678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_74
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89af87bef163384eb5567bea73e3ab7
+      internalID: 1129574542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_75
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9cab6b6eefba54a844156f6112ff5f
+      internalID: -152875868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_76
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7682dc32903dc324c98294929ddb4a8c
+      internalID: -2014198457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_77
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270d4450434f7ee4b8da4967360f2280
+      internalID: 1672370538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_78
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43de57730ac3b5241be1da525ef1fb43
+      internalID: 283323556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenmonItemIcons_by_ScreenSmithStudios_79
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ba1abd477a3f1488c8bd4d1af812d6
+      internalID: 1856016052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      OpenmonItemIcons_by_ScreenSmithStudios_0: -1305797122
+      OpenmonItemIcons_by_ScreenSmithStudios_1: -2026694810
+      OpenmonItemIcons_by_ScreenSmithStudios_10: -1271445574
+      OpenmonItemIcons_by_ScreenSmithStudios_11: 151824721
+      OpenmonItemIcons_by_ScreenSmithStudios_12: 370203283
+      OpenmonItemIcons_by_ScreenSmithStudios_13: 1844766415
+      OpenmonItemIcons_by_ScreenSmithStudios_14: 1053612014
+      OpenmonItemIcons_by_ScreenSmithStudios_15: -1993211868
+      OpenmonItemIcons_by_ScreenSmithStudios_16: -333204136
+      OpenmonItemIcons_by_ScreenSmithStudios_17: -703047594
+      OpenmonItemIcons_by_ScreenSmithStudios_18: -2118432177
+      OpenmonItemIcons_by_ScreenSmithStudios_19: -27767310
+      OpenmonItemIcons_by_ScreenSmithStudios_2: 563865845
+      OpenmonItemIcons_by_ScreenSmithStudios_20: 595290372
+      OpenmonItemIcons_by_ScreenSmithStudios_21: -1711427843
+      OpenmonItemIcons_by_ScreenSmithStudios_22: 392647679
+      OpenmonItemIcons_by_ScreenSmithStudios_23: 149660230
+      OpenmonItemIcons_by_ScreenSmithStudios_24: -1072525034
+      OpenmonItemIcons_by_ScreenSmithStudios_25: 130142961
+      OpenmonItemIcons_by_ScreenSmithStudios_26: -1322906604
+      OpenmonItemIcons_by_ScreenSmithStudios_27: 901811955
+      OpenmonItemIcons_by_ScreenSmithStudios_28: 979608714
+      OpenmonItemIcons_by_ScreenSmithStudios_29: -1145446972
+      OpenmonItemIcons_by_ScreenSmithStudios_3: -1693253279
+      OpenmonItemIcons_by_ScreenSmithStudios_30: -1131983044
+      OpenmonItemIcons_by_ScreenSmithStudios_31: 322041958
+      OpenmonItemIcons_by_ScreenSmithStudios_32: 1419999566
+      OpenmonItemIcons_by_ScreenSmithStudios_33: 2023131561
+      OpenmonItemIcons_by_ScreenSmithStudios_34: -25935675
+      OpenmonItemIcons_by_ScreenSmithStudios_35: -1494543288
+      OpenmonItemIcons_by_ScreenSmithStudios_36: 1723626270
+      OpenmonItemIcons_by_ScreenSmithStudios_37: 310415716
+      OpenmonItemIcons_by_ScreenSmithStudios_38: -193383002
+      OpenmonItemIcons_by_ScreenSmithStudios_39: -606339747
+      OpenmonItemIcons_by_ScreenSmithStudios_4: -224380252
+      OpenmonItemIcons_by_ScreenSmithStudios_40: -860898714
+      OpenmonItemIcons_by_ScreenSmithStudios_41: 67287477
+      OpenmonItemIcons_by_ScreenSmithStudios_42: 472065367
+      OpenmonItemIcons_by_ScreenSmithStudios_43: 1124261155
+      OpenmonItemIcons_by_ScreenSmithStudios_44: 1729256058
+      OpenmonItemIcons_by_ScreenSmithStudios_45: -1994342331
+      OpenmonItemIcons_by_ScreenSmithStudios_46: -1490259198
+      OpenmonItemIcons_by_ScreenSmithStudios_47: -717952973
+      OpenmonItemIcons_by_ScreenSmithStudios_48: 1555674897
+      OpenmonItemIcons_by_ScreenSmithStudios_49: -2053441975
+      OpenmonItemIcons_by_ScreenSmithStudios_5: -1488984470
+      OpenmonItemIcons_by_ScreenSmithStudios_50: -960090421
+      OpenmonItemIcons_by_ScreenSmithStudios_51: 397779277
+      OpenmonItemIcons_by_ScreenSmithStudios_52: 2101189989
+      OpenmonItemIcons_by_ScreenSmithStudios_53: 1078457890
+      OpenmonItemIcons_by_ScreenSmithStudios_54: 236431379
+      OpenmonItemIcons_by_ScreenSmithStudios_55: -453070376
+      OpenmonItemIcons_by_ScreenSmithStudios_56: -52916161
+      OpenmonItemIcons_by_ScreenSmithStudios_57: -214150486
+      OpenmonItemIcons_by_ScreenSmithStudios_58: -898226443
+      OpenmonItemIcons_by_ScreenSmithStudios_59: 525601278
+      OpenmonItemIcons_by_ScreenSmithStudios_6: -1681512539
+      OpenmonItemIcons_by_ScreenSmithStudios_60: 1213179220
+      OpenmonItemIcons_by_ScreenSmithStudios_61: -1681706005
+      OpenmonItemIcons_by_ScreenSmithStudios_62: -1808265740
+      OpenmonItemIcons_by_ScreenSmithStudios_63: -123860618
+      OpenmonItemIcons_by_ScreenSmithStudios_64: 1553013975
+      OpenmonItemIcons_by_ScreenSmithStudios_65: 737479070
+      OpenmonItemIcons_by_ScreenSmithStudios_66: -768271644
+      OpenmonItemIcons_by_ScreenSmithStudios_67: 1003286110
+      OpenmonItemIcons_by_ScreenSmithStudios_68: 524417782
+      OpenmonItemIcons_by_ScreenSmithStudios_69: -200357654
+      OpenmonItemIcons_by_ScreenSmithStudios_7: -1334171996
+      OpenmonItemIcons_by_ScreenSmithStudios_70: -758642373
+      OpenmonItemIcons_by_ScreenSmithStudios_71: -852497192
+      OpenmonItemIcons_by_ScreenSmithStudios_72: -1051281704
+      OpenmonItemIcons_by_ScreenSmithStudios_73: 885573678
+      OpenmonItemIcons_by_ScreenSmithStudios_74: 1129574542
+      OpenmonItemIcons_by_ScreenSmithStudios_75: -152875868
+      OpenmonItemIcons_by_ScreenSmithStudios_76: -2014198457
+      OpenmonItemIcons_by_ScreenSmithStudios_77: 1672370538
+      OpenmonItemIcons_by_ScreenSmithStudios_78: 283323556
+      OpenmonItemIcons_by_ScreenSmithStudios_79: 1856016052
+      OpenmonItemIcons_by_ScreenSmithStudios_8: -610827673
+      OpenmonItemIcons_by_ScreenSmithStudios_9: 1816979689
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

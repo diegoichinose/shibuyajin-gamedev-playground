@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 3fbe4abb13876d64b8ce517ff70b2a27
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _inventoryData: {fileID: 11400000, guid: 66a04da9a99931c4b9d7c9106baf64c7, type: 2}
+  - OnInventorySlotSelected: {fileID: 11400000, guid: 45e36731f50d74f4aadd8b87f89de401, type: 2}
+  - OnInventorySlotDeselected: {fileID: 11400000, guid: 52623c80a294bf7489d34215aefafb27, type: 2}
+  - inventoryDrawerParent: {instanceID: 0}
+  - icon: {instanceID: 0}
+  - count: {instanceID: 0}
+  - selectionHighlight: {instanceID: 0}
+  - durabilityUI: {instanceID: 0}
+  - durabilitySlider: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

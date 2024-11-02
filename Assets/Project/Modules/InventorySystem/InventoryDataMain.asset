@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebbe11ddd5add9a419b9e1e0f8d604ce, type: 3}
+  m_Name: InventoryDataMain
+  m_EditorClassIdentifier: 
+  inventory:
+  - rid: 7572328923744698427
+  - rid: 7572328941618724891
+  - rid: 7572328941618724918
+  - rid: 7572328941618724969
+  - rid: 7572328941618724977
+  - rid: 7572328941618724978
+  isMainInventoryData: 1
+  capacity: 10
+  currentlySelectedSlotNumber: 7
+  references:
+    version: 2
+    RefIds:
+    - rid: 7572328923744698427
+      type: {class: InventoryItem, ns: , asm: Assembly-CSharp}
+      data:
+        inventoryItemData: {fileID: 11400000, guid: 505799aa29a16cb4abd36da2adb9d013, type: 2}
+        quantity: 11
+    - rid: 7572328941618724891
+      type: {class: InventoryItem, ns: , asm: Assembly-CSharp}
+      data:
+        inventoryItemData: {fileID: 11400000, guid: ecb71021f4e462e4b8d2c7ad2b997f28, type: 2}
+        quantity: 15
+    - rid: 7572328941618724918
+      type: {class: InventoryItem, ns: , asm: Assembly-CSharp}
+      data:
+        inventoryItemData: {fileID: 11400000, guid: 1cf20cec882487e4aa50890dcfd6e4a4, type: 2}
+        quantity: 19
+    - rid: 7572328941618724969
+      type: {class: InventoryItem, ns: , asm: Assembly-CSharp}
+      data:
+        inventoryItemData: {fileID: 11400000, guid: 9ca29a7be4ea69d48bde839c1e931dd9, type: 2}
+        quantity: 1
+    - rid: 7572328941618724977
+      type: {class: InventoryItemTool, ns: , asm: Assembly-CSharp}
+      data:
+        inventoryItemData: {fileID: 11400000, guid: 4eb389ae2e57e9f4299f1f3b37503e2d, type: 2}
+        quantity: 1
+        currentDurability: 80
+        prefixDataId:
+          serializedGuid: 4cd04fdf-1c9f-4f5b-b10b-91bf46515051
+        prefixData: {fileID: 11400000, guid: 36a3a330695a9204c8db724c37c049b7, type: 2}
+    - rid: 7572328941618724978
+      type: {class: InventoryItemTool, ns: , asm: Assembly-CSharp}
+      data:
+        inventoryItemData: {fileID: 11400000, guid: 36d5ceb974e86bb428f9675c3a2e1c37, type: 2}
+        quantity: 1
+        currentDurability: 1
+        prefixDataId:
+          serializedGuid: ae9d6e27-f736-471e-8dd5-399c337294ed
+        prefixData: {fileID: 11400000, guid: 7fc9924e2cafae24481705c93cb15b03, type: 2}

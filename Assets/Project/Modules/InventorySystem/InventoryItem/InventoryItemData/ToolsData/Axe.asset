@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61a2025c06a7497488e908a9e5815cd6, type: 3}
+  m_Name: Axe
+  m_EditorClassIdentifier: 
+  id:
+    serializedGuid: 63537cb7-f2da-4784-9f96-04cff1a49a3b
+  title: Axe
+  description: Use it to chop down trees!
+  icon: {fileID: 210690772, guid: 63ad7de0c140eef4fbde58566e43d341, type: 3}
+  canStack: 0
+  isMaterial: 0
+  preventSpawningInsideChest: 0
+  tier: 0
+  buyingPrice: 0
+  sellingPrice: 0
+  rarityWeight: 50
+  maxDurability: 100
+  customCursor: {fileID: 2800000, guid: 585c9698c494c924c805bb3dc9f69065, type: 3}
+  toolType: 1
+  tickPower: 0
+  tickSpeed: 0
+  additionalHarvest: 0

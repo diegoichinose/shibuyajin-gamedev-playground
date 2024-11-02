@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eae9e86b58347f442a78630636789bc3, type: 3}
+  m_Name: HarvestablePropData_GrassBush
+  m_EditorClassIdentifier: 
+  harvestTickSound: {fileID: 8300000, guid: 340d2d71a40490640bd74df6a3b02ca7, type: 3}
+  harvestCompleteSound: {fileID: 8300000, guid: 351a6a138b7f48d44897acefca7b46eb, type: 3}
+  requiredToolType: 0
+  durabilityTicks: 2
+  itemsToDrop:
+    list:
+    - inventoryItemData: {fileID: 11400000, guid: 505799aa29a16cb4abd36da2adb9d013, type: 2}
+      weight: 50
+    minAmount: 2
+    additionalAmountToRandomize: 3
+  requiredTool:
+    inventoryItemData: {fileID: 0}
+    quantity: 0
+    currentDurability: 0
+    prefixDataId:
+      serializedGuid: 00000000-0000-0000-0000-000000000000
+    prefixData: {fileID: 0}

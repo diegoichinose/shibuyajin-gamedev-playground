@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3c7a728924dd2048addf64e7944d247, type: 3}
+  m_Name: ToolPrefixSlow
+  m_EditorClassIdentifier: 
+  id:
+    serializedGuid: 88609529-423e-407a-8d9a-43f93aec00e3
+  title: Slow
+  speed: -0.25
+  tickPower: 0
+  durability: 0
+  additionalHarvest: 0
+  priceModifier: 0

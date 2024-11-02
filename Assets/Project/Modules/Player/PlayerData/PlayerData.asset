@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: PlayerData
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerData
+  player:
+    health:
+      baseMaxHealth: 300
+      maxHealth: 300
+      currentHealth: 300
+      healingPerSecond: 0
+      defense: 0
+      damageReceivedMultiplier: 1
+      additionalHealingPercentageDecimal: 0
+      invincibilitySeconds: 0.8
+      preventKnockback: 0
+      isInvincible: 0
+    movement:
+      playerPosition: {x: 0, y: 0}
+      canMove: 1
+      moveSpeed: 1
+      moveSpeedCache: 1
+      dashCooldown: 3
+      dashSpeed: 4
+      dashDuration: 0.2
+      dashStacksMax: 3
+      dashStacksCurrent: 3
+      preventMoveSpeedReductionFromWeaponTrigger: 0

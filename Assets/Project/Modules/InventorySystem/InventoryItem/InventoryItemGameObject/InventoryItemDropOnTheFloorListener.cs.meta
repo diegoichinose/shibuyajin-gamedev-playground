@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 15a7c483f18d7fc4cbc16d3dfd7ee0bb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _emptyCollectableItemPrefab: {fileID: 2689191635014549808, guid: 12db8a96aabce9145b758cb9265bdd4a, type: 3}
+  - _playerEquipment: {instanceID: 0}
+  - OnItemDropped: {fileID: 11400000, guid: 424231608b6a8404f8716dcf62ba9336, type: 2}
+  - OnInventoryItemRemoved: {fileID: 11400000, guid: e07ce6ac60d48f3449500b2c5c85c6b9, type: 2}
+  - OnCraftWithInventoryFull: {fileID: 11400000, guid: 768a9ce6f6af0c54cb0ef126e431eeaf, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
