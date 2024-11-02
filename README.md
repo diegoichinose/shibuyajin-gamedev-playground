@@ -1,4 +1,4 @@
-# WELCOME TO THE SHIBUYAJIN GAMEDEV PLAYGROUND
+# SHIBUYAJIN TECH DEMO
 
 This project features a small slice of the source code of the game ["Enter The Night"](https://store.steampowered.com/app/2624990/Enter_The_Night_Roguelite/) on Steam.
 <br><br>
